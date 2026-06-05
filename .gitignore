@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+*.egg-info/
+build/
+dist/
+
+# PyDirBuster specific
+resume_state.json
+scan_report_*.txt
+scan_report_*.csv
+scan_report_*.json
+
+# Virtual Environments
+venv/
+env/
+.env
+.venv/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Testing and coverage
+.coverage
+htmlcov/
+.pytest_cache/
