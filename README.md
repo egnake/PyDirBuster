@@ -24,7 +24,9 @@ PyDirBuster features advanced Web Application Firewall (WAF) evasion, HTTP Verb 
 
 ---
 
-##Prewiew
+## Prewiew
+
+
 <img width="958" height="381" alt="1" src="https://github.com/user-attachments/assets/62ece3df-aac8-4b81-889b-c20720127e3d" />
 
 ## Installation
